@@ -1,0 +1,6 @@
+
+public class GestaoAluno {
+	
+	matricular(Aluno aluno);
+
+}

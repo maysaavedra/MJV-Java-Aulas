@@ -1,0 +1,12 @@
+package Exercicio;
+
+public class Pessoa {
+
+	public static void main(String[] args) {
+		
+		
+		DadosPessoais dados = new DadosPessoais();
+		
+	}
+
+}
