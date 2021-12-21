@@ -5,10 +5,10 @@ Neste repositório contém as aulas do curso de Java da MJV. Cada aula é compos
 
 As aulas de 1 à 3 foram feitas dinâmicas em grupo para podermos compreeder melhor o uso do Git e Github.
 
-##Aula04
+## Aula04
 
 Conceitos de variáveis, obletos e classes.
 
-##Aula05
+## Aula05
 
 Conceitos de objetos, classes e metodos de acesso.
