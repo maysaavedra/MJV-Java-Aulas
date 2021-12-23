@@ -1,13 +1,12 @@
 package bankapp;
 
-import java.util.Scanner;
+
 
 import bankapp.model.Conta;
 import bankapp.service.ContaService;
 
 public class BankApllication {
-	//de 2 a 3 contas de integrantes
-	//para realizar uma jornada nas contas
+
 
 	public static void main(String[] args) {
 		
