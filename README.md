@@ -12,3 +12,11 @@ Conceitos de variáveis, obletos e classes.
 ## Aula05
 
 Conceitos de objetos, classes e metodos de acesso.
+
+## Aula06
+
+Conceitos de ArrayList.
+
+## Aula07
+
+Conceitos de ArrayList, Collections.
